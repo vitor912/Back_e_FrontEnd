@@ -29,8 +29,8 @@ export class EventosComponent implements OnInit {
     filtrarPor = filtrarPor.toLocaleLowerCase();
     return this.eventos.filter(
       (evento: {tema: string, local: string }) =>
-      evento.tema.toLocaleLowerCase().indexOf(filtrarPor) ! == -1 ||
-      evento.local.toLocaleLowerCase().indexOf(filtrarPor) ! == -1
+      evento.tema.toLocaleLowerCase().indexOf(filtrarPor) !== -1 ||
+      evento.local.toLocaleLowerCase().indexOf(filtrarPor) !== -1
     )
   }
 
