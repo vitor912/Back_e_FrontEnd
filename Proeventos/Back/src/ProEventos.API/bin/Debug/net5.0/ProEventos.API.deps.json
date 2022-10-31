@@ -35,6 +35,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.17",
           "Microsoft.EntityFrameworkCore.Design": "5.0.17",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.17",
           "MySql.EntityFrameworkCore": "5.0.16",
@@ -1544,6 +1545,9 @@
       },
       "ProEventos.Persistence/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.17",
+          "MySql.EntityFrameworkCore": "5.0.16",
+          "Pomelo.EntityFrameworkCore.MySql": "5.0.4",
           "ProEventos.Domain": "1.0.0"
         },
         "runtime": {

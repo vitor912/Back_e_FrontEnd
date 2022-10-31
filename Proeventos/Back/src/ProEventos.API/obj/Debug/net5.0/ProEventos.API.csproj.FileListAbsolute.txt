@@ -5,7 +5,6 @@ C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.json
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.dev.json
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.dll
-C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.pdb
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -46,8 +45,6 @@ C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ZstdNet.dll
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\MySqlConnector.dll
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
@@ -76,3 +73,7 @@ C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
 C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\libman.json
+C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\obj\Debug\net5.0\refint\ProEventos.API.dll
+C:\Users\vitor\Documents\_GitHub\Back_e_FrontEnd\Proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
